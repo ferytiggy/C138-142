@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-image: url(degradado.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.boton{
+    border-radius: 50px;
+    border-width: 0px;
+}
+.img{
+    width: 100%;
+}
+.instruction_image{
+    display: inline-block;
+    width: 45%;
+}
+video{
+    background-image: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
